@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://uo282249.github.io/lomap_es6b/static/css/main.f13d0da4.css",
-    "main.js": "https://uo282249.github.io/lomap_es6b/static/js/main.1dd36df6.js",
+    "main.js": "https://uo282249.github.io/lomap_es6b/static/js/main.c523d95c.js",
     "static/media/full_logo_new.svg": "https://uo282249.github.io/lomap_es6b/static/media/full_logo_new.aa4d56b1f7a4d55b74eb26389355ce15.svg",
     "index.html": "https://uo282249.github.io/lomap_es6b/index.html",
     "main.f13d0da4.css.map": "https://uo282249.github.io/lomap_es6b/static/css/main.f13d0da4.css.map",
-    "main.1dd36df6.js.map": "https://uo282249.github.io/lomap_es6b/static/js/main.1dd36df6.js.map"
+    "main.c523d95c.js.map": "https://uo282249.github.io/lomap_es6b/static/js/main.c523d95c.js.map"
   },
   "entrypoints": [
     "static/css/main.f13d0da4.css",
-    "static/js/main.1dd36df6.js"
+    "static/js/main.c523d95c.js"
   ]
 }
